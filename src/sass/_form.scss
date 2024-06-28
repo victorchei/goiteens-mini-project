@@ -1,0 +1,35 @@
+.form {
+  /* border: 1px solid black; */
+  height: 200px;
+  width: 300px;
+}
+
+.btn_form {
+  text-decoration-color: black;
+  border: 1px solid red;
+  border-radius: 500px;
+  /* margin-top: 10px; */
+  background-color: red;
+  margin-left: 50px;
+}
+
+.textarea_form {
+  background-color: rgb(238, 238, 238);
+  border: 1px solid black;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-top: 10px;
+  height: 50px;
+  width: 100px;
+  text-decoration-color: black;
+}
+
+.input_form {
+  background-color: rgb(238, 238, 238);
+  border: 1px solid rgb(0, 0, 0);
+  margin-top: 10px;
+  margin-left: 50px;
+  padding-left: 30px;
+  border-radius: 500px;
+  text-decoration-color: black;
+}
